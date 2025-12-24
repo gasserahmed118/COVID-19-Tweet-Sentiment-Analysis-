@@ -13,6 +13,7 @@ The project demonstrates a complete NLP workflow including:
 5. Performance evaluation
 
 🎯 Objectives
+
    1. Analyze public sentiment during the COVID-19 pandemic
    2. Compare feature-based models vs TF-IDF models
    3. Perform binary and multi-class sentiment classification
