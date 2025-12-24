@@ -27,6 +27,7 @@ The project demonstrates a complete NLP workflow including:
       2. Sentiment – Sentiment label
 
 🏗 Project Structure
+
  📦 covid19-sentiment-analysis
  ┣ 📜 README.md
  ┣ 📓 TFIDF_Sentiment_Analysis.ipynb
@@ -39,6 +40,7 @@ The project demonstrates a complete NLP workflow including:
 
 
 🔎 Exploratory Data Analysis (EDA)
+
 The dataset is explored using:
    1. data.info()
    2. data.describe()
@@ -53,6 +55,7 @@ Additional engineered features include:
   5. Number of links
 
 🧩 Feature Engineering
+
    1️⃣ Handcrafted Text Features
       1. Total characters
       2. Word count
@@ -67,10 +70,12 @@ Additional engineered features include:
 
 
 🤖 Models Used
+
 Random Forest Classifier
 
 
 📊 Evaluation Metrics
+
    Each model is evaluated using:
      1. Precision
      2. Recall
@@ -85,6 +90,7 @@ These visualizations help analyze class-wise performance and misclassification p
 
 
 📈 Performance Summary
+
    1. TF-IDF significantly outperforms handcrafted features
    2. Binary classification achieves higher accuracy than multi-class
    3. Neutral and extreme sentiments are harder to distinguish
