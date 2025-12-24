@@ -20,6 +20,7 @@ The project demonstrates a complete NLP workflow including:
    4. Visualize performance using confusion matrices
 
 📂 Dataset
+
     Name: COVID-19 Tweets Dataset
     Format: CSV
     Key Columns:
@@ -27,7 +28,6 @@ The project demonstrates a complete NLP workflow including:
       2. Sentiment – Sentiment label
 
 🏗 Project Structure
-
  📦 covid19-sentiment-analysis
  ┣ 📜 README.md
  ┣ 📓 TFIDF_Sentiment_Analysis.ipynb
