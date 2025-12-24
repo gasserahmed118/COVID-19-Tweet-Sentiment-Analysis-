@@ -57,6 +57,7 @@ Additional engineered features include:
 🧩 Feature Engineering
 
    1️⃣ Handcrafted Text Features
+   
       1. Total characters
       2. Word count
       3. Numeric characters
@@ -64,6 +65,7 @@ Additional engineered features include:
       5. URLs count
 
    2️⃣ TF-IDF Vectorization
+   
       1. Converts tweets into numerical vectors
       2. Captures word importance across the corpus
       3. High-dimensional sparse representation
@@ -77,6 +79,7 @@ Random Forest Classifier
 📊 Evaluation Metrics
 
    Each model is evaluated using:
+   
      1. Precision
      2. Recall
      3. F1-Score
@@ -84,9 +87,10 @@ Random Forest Classifier
      5. Confusion Matrices
 
    Confusion matrices are plotted for:
+   
       1. Binary sentiment classification
       2. Multi-class sentiment classification
-These visualizations help analyze class-wise performance and misclassification patterns.
+    These visualizations help analyze class-wise performance and misclassification patterns.
 
 
 📈 Performance Summary
